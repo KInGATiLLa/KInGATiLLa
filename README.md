@@ -5,8 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Company projects
-- 🌱 I’m currently learning React, Spring boot, NextJS, Design pattern
+- 🔭 I’m currently working on Company projects, Contributing open source projects, Developing JS packages
+- 🌱 I’m currently learning ReactJS, ReactJS Design pattern, ReactJS libraries, Spring Boot, NextJS, Java Design pattern, Code quality, Microservices, Container technologies
+      NodeJS frameworks
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
