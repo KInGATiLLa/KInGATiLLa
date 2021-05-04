@@ -30,11 +30,11 @@
 <br/>
 <br/>
 
-Software engineer from Mongolia, living in Ulaanbaatar and currently working at Astvision LLC.
+Software developer from Mongolia, living in Ulaanbaatar and currently working at Astvision LLC.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="380" height="200" />
 
-### Personal information:
+## 📜 Personal profile:
 
 - 🔭 I’m currently working on Company projects, Contributing open source projects, 
       Developing JS packages
