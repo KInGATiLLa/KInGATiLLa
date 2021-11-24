@@ -30,7 +30,7 @@
 <br/>
 <br/>
 
-Software developer from Mongolia, living in Ulaanbaatar and currently working at Astvision LLC.
+Software developer from Mongolia, living in Ulaanbaatar.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="380" height="200" />
 
