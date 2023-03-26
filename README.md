@@ -11,7 +11,7 @@
   <img align="left" alt="Galt's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-<a href="https://www.facebook.com/king.atilla/">
+<a href="https://www.facebook.com/khgalt/">
   <img align="left" alt="Galt's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
@@ -19,11 +19,11 @@
   <img align="left" alt="Galt's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<a href="https://medium.kingalt.me/">
+<a href="https://medium.kgalt.com/">
   <img align="left" alt="Galt's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
-<a href="https://blog.kingalt.me/">
+<a href="https://blogger.kgalt.com/">
   <img align="left" alt="Galt's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" />
 </a>
 
