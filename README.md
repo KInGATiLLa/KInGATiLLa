@@ -19,12 +19,12 @@
   <img align="left" alt="Galt's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<a href="https://medium.kgalt.com/">
+<!-- <a href="https://medium.kgalt.com/">
   <img align="left" alt="Galt's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
+</a> -->
 
 <a href="https://blogger.kgalt.com/">
-  <img align="left" alt="Galt's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" />
+  <img align="left" alt="Galt's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
 </a>
 
 <br/>
