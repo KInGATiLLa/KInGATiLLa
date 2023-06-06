@@ -38,14 +38,3 @@ I'm Software developer from Mongolia, living in Ulaanbaatar.
 ![](https://img.shields.io/badge/DevOps-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DevOps-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DevOps-Google%20Cloud-informational?style=flat&logo=google-cloud&logoColor=white&color=2bbc8a)
-
-
-## &#x1f4c8; GitHub Stats
-<a href="https://github.com/KInGATiLLa/KInGATiLLa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KInGATiLLa&show_icons=true&line_height=27&count_private=true&theme=radical" alt="KInGATiLLa's GitHub Stats" />
-</a>
-
-<a href="https://github.com/KInGATiLLa/KInGATiLLa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KInGATiLLa&langs_count=8&theme=radical" />
-</a>
-
