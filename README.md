@@ -1,50 +1,19 @@
 ### Hi there 👋
 
-<!--
-**KInGATiLLa/KInGATiLLa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+I'm Software developer from Mongolia, living in Ulaanbaatar.
 
-<!-- <a href="https://www.linkedin.com/in/galt-khurelbaatar-b103b6115/">
-  <img align="left" alt="Galt's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<a href="https://twitter.com/galt_kh">
-  <img align="left" alt="Galt's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
-<a href="https://www.facebook.com/khgalt/">
-  <img align="left" alt="Galt's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-
-<a href="https://www.instagram.com/galtkh/">
-  <img align="left" alt="Galt's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-<!-- <a href="https://medium.kgalt.com/">
-  <img align="left" alt="Galt's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a> -->
-
-<a href="https://blogger.kgalt.com/">
-  <img align="left" alt="Galt's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
-</a>
-
-<br/>
-<br/>
- -->
-Software developer from Mongolia, living in Ulaanbaatar.
-
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="380" height="200" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="380" height="200" />
 
 ## 📜 Personal profile:
 
 - 🔭 I’m currently working on Company projects, Contributing open source projects, 
-      Developing JS packages
+      My own side projects
 - 🌱 I’m currently learning ReactJS, ReactJS Design pattern, ReactJS libraries, 
       Spring Boot, NextJS, Java Design pattern, Code quality, Microservices, 
-      Docker, Kubernetes, NodeJS frameworks, MongoDB database
+      Docker, NodeJS frameworks, MySQL, MongoDB database
 - 👯 I’m looking to collaborate on web apps, services, cloud tech
-- 🤔 I’m looking for help with humans in ReactJS, Spring boot, Java, NodeJS, MongoDB
+- 🤔 I’m looking for help with humans in ReactJS, Spring boot, Java, NodeJS, MongoDB, MySQL
 - 💬 Ask me about anything. Happy to help for you
-- 📫 How to reach me: See 👆 my social links
 
 
 ## 🔧 Technologies & Tools
