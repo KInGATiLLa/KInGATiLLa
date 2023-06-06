@@ -1,9 +1,9 @@
-### Hi there 👋 I'm Galt Khurelbaatar
+### Hi there 👋
 
 <!--
 **KInGATiLLa/KInGATiLLa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<a href="https://www.linkedin.com/in/galt-khurelbaatar-b103b6115/">
+<!-- <a href="https://www.linkedin.com/in/galt-khurelbaatar-b103b6115/">
   <img align="left" alt="Galt's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
@@ -29,7 +29,7 @@
 
 <br/>
 <br/>
-
+ -->
 Software developer from Mongolia, living in Ulaanbaatar.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="380" height="200" />
